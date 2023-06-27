@@ -17,7 +17,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient();
 builder.Services.AddScoped<IEtablissementService, EtablissementService>();
 builder.Services.AddScoped<IEntrepriseRepository, EntrepriseRepository>();
-builder.Services.AddScoped<IEtablissementService, EtablissementService>();
+builder.Services.AddScoped<IEntrepriseService, EntrepriseService>();
 
 builder.Services.Configure<DataBaseSetting>(builder.Configuration.GetSection("Database"));
 var dbSettings = builder.Configuration.GetSection("Database").Get<DataBaseSetting>();

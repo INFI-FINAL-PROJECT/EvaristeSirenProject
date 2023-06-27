@@ -35,3 +35,16 @@ E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\obj\Debug\net6.0\Eta
 E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\obj\Debug\net6.0\EtablissementProject.WebApi.genruntimeconfig.cache
 E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\obj\Debug\net6.0\ref\EtablissementProject.WebApi.dll
 E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\DnsClient.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\MongoDB.Bson.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\MongoDB.Driver.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\SharpCompress.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\Snappier.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\ZstdSharp.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+E:\PROJETS\EtablissementProject\EtablissementProject.WebApi\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
