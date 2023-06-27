@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EtablissementProject.DataAccess/1.0.0": {
+        "runtime": {
+          "EtablissementProject.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EtablissementProject.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

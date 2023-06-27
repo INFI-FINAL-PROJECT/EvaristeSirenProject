@@ -1,0 +1,12 @@
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\bin\Debug\net6.0\EtablissementProject.DataAccess.deps.json
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\bin\Debug\net6.0\EtablissementProject.DataAccess.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\bin\Debug\net6.0\EtablissementProject.DataAccess.pdb
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\EtablissementProject.DataAccess.csproj.AssemblyReference.cache
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\EtablissementProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\EtablissementProject.DataAccess.AssemblyInfoInputs.cache
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\EtablissementProject.DataAccess.AssemblyInfo.cs
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\EtablissementProject.DataAccess.csproj.CoreCompileInputs.cache
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\EtablissementProject.DataAccess.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\refint\EtablissementProject.DataAccess.dll
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\EtablissementProject.DataAccess.pdb
+E:\PROJETS\EtablissementProject\EtablissementProject.DataAccess\obj\Debug\net6.0\ref\EtablissementProject.DataAccess.dll
